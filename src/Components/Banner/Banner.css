@@ -1,7 +1,7 @@
 .banner{
-    background-image: url('/public/Images/Banner.jpg');
+    
     background-size: cover;
-    height: 448px;
+    height: auto;
     color: white;
 }
 
